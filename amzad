@@ -1,8 +1,8 @@
 {
-admob_banner_ios_id: "ca-app-pub-1647006358753996_1647040492083916",
-admob_fullscreen_ios_id: "ca-app-pub-1647006358753996_1647044248750207",
-admob_video_reward_ios_id: "ca-app-pub-2590349578503127/7110465691",
-admob_banner_android_id: "ca-app-pub-1647006358753996_1647040492083916",
-admob_fullscreen_android_id: "ca-app-pub-1647006358753996_1647044248750207",
-admob_video_reward_android_id: "ca-app-pub-1647006358753996_1647043358750296"
+admob_banner_ios_id: "ca-app-pub-1399951637791780/5841931962",
+admob_fullscreen_ios_id: "ca-app-pub-1399951637791780/1516508297",
+admob_video_reward_ios_id: "ca-app-pub-1399951637791780/2233079195",
+admob_banner_android_id: "ca-app-pub-1399951637791780/5841931962",
+admob_fullscreen_android_id: "ca-app-pub-1399951637791780/1516508297",
+admob_video_reward_android_id: "ca-app-pub-1399951637791780/2233079195"
 }
